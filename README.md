@@ -5,11 +5,17 @@
 因为我们要把tmp复制到个个小数组当中去，而小树组的首地址就是left，用相对位置的方法。
 
 3.代码：
-#include <iostream>
-#include <cstring>
-#include <cmath>
-#include <cstdlib>
-#include <algorithm>
+
+\#include \<iostream>
+
+\#include \<cstring>
+
+\#include \<cmath>
+
+\#include \<cstdlib>
+
+\#include \<algorithm>
+
 
 using namespace std;
 
